@@ -1,0 +1,16 @@
+﻿Не благодарите)
+﻿
+﻿“Основы программирования на Python” – от факультета компьютерных наук высшей школы экономики:
+https://www.coursera.org/learn/python-osnovy-programmirovaniya
+
+“Специализация Программирование на Python” – 4 курса от mail.ru, мфти и “Фонда развития онлайн-образования”:
+https://www.coursera.org/specializations/programming-in-python
+
+Набор задачек по Python:
+https://stepik.org/course/431
+
+Курс по Python и Django от FreeCodeCamp.org:
+https://www.youtube.com/watch?v=F5mRW0jo-U4
+
+Свежий курс "Complete Programming Tutorial for Beginners":
+https://www.youtube.com/watch?v=_uQrJ0TkZlc
